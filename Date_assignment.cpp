@@ -3,7 +3,7 @@ using namespace std;
 
 class Date1
 {
-     int dd,mm,yyyy;
+     int dd,mm,yyyy;//first commit 
      
     public:
      void getData()

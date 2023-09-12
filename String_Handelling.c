@@ -81,7 +81,7 @@ void ustrcat(char* p, char* q)
 		p++;
 		q++;
 	}
-	*q='\0';
+
 	
 }
 

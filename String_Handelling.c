@@ -57,7 +57,7 @@ int main()
 	scanf("%s",a);
 	printf("Enter string2:");
 	scanf("%s",b);
-    printf("before concat string is:%s %d\n",a,&a);
+        printf("before concat string is:%s %d\n",a,&a);
    
 	ustrcat(a, b);//abcxyz
 	printf("Concatinated string is:%s %d\n", a,&a);//abcxyz

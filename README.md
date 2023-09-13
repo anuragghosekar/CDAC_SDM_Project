@@ -24,7 +24,9 @@ Table of Contents for a SRS Document
 
 2.4 Operating Environment
 
-2.5 Design and Implementation Constraints 2.6 Assumptions and Dependencies
+2.5 Design and Implementation Constraints 
+
+2.6 Assumptions and Dependencies
 
 ###3. System Features
 

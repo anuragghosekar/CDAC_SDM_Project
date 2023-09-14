@@ -9,7 +9,19 @@ Online Exam Portal to take assessment and monitor overall performance of the stu
 
 •	Scope: 
 This system will allow students to take online assessment with an ease and from anywhere irrespective to their location and time. And it will also allow students to get assessment result as early as possible. It allows faculties to check complete record of student’s insights and director can see overall performance of training centre.
+
 •	Functional Requirements:
-Students can go through details of CDAC and all other information related to the course. Interested students can download admission booklet from the portal. Students need to do registration on the portal before giving the exam and make the necessary payments related to it.
+Students can go through details of CDAC and all other information related to the course. Interested students can download admission booklet from the portal. Students need to do registration on the portal before giving the exam and make the necessary payments related to it. And students canchoose from different cources availabe on the portal and appear for mock test before actual exam to test there knowlwdge. Students will get instance result after the assesment and see where they need to focus in ctudies. They can alsoaccess previous year papeers and solutions for preparation. Notifications can also be provided regarding important dates and topics to never miss anything. Facultuies can check and monitor student's performance. They can upload mock tests and take necessary feedback from students. Faculties can monitor webcam and mic of students appearing for test to avoid malpractices during the test.
 
-
+•	Non-functional Requirements:
+Security:
+Reliability:
+Availability:
+Maintainability:
+Portablility:
+Accessibility:
+Durability:
+Efficiency:
+Modularity:
+Scalability:
+Safety:

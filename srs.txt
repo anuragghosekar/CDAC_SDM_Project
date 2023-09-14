@@ -1,1 +1,4 @@
-##SDM Project
+###Title: Software Requirement Specification for CDAC Online Assessment Portal.
+~Team: Students, Faculties, Director, CDAC Staff, Development team, Architect, Quality Assurance Team.
+~Objectives: Online Exam Portal to take assessment and monitor overall performance of the student and help faculties and management team in there work.
+~Scope:

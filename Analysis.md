@@ -1,5 +1,5 @@
 # Requirement Analysis:
-- Student RNO number
+- Student roll number
 - Student Name
 - Session In - Session out
 - Total Number of Question Attempted
@@ -19,3 +19,6 @@
 - Sesion Id
 - IP Address
 - Location
+- Microphone
+- Camera
+  

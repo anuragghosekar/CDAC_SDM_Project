@@ -1,0 +1,36 @@
+@using BOL;
+@{
+    ViewData["Title"]="Display Employee";
+}
+
+<div class="text-center">
+
+    @{  List<Employee> elst = new List<Employee>();
+        elst = this.ViewData["Employees"] as List<Employee>;
+    <table border="3">
+        <thead>
+                <tr>
+                    <th>Employee Id</th>
+                    <th>Employee Name</th>
+                    <th>Employee Email</th>
+                    <th>Employee Contact</th>
+                </tr>
+        </thead>
+        @foreach(Employee e in elst)
+        {
+        <tbody>           
+                <tr>
+                    <td>@e.Id</td>
+                    <td>@e.Name</td>
+                    <td>@e.Email</td>
+                    <td>@e.ContactNumber</td>
+                </tr>          
+        </tbody>
+        }
+    </table>
+    <a href="Update"><button>Update</button></a>
+    <a href="Delete"><button>Delete</button></a>
+    }
+
+</div>
+

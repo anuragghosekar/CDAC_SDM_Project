@@ -1,8 +1,0 @@
-C:\Users\IET\Desktop\230945920004\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.csproj.AssemblyReference.cache
-C:\Users\IET\Desktop\230945920004\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\IET\Desktop\230945920004\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.AssemblyInfoInputs.cache
-C:\Users\IET\Desktop\230945920004\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.AssemblyInfo.cs
-C:\Users\IET\Desktop\230945920004\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.csproj.CoreCompileInputs.cache
-C:\Users\IET\Desktop\230945920004\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\IET\Desktop\230945920004\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.RazorAssemblyInfo.cache
-C:\Users\IET\Desktop\230945920004\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.RazorAssemblyInfo.cs
